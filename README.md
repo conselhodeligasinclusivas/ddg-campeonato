@@ -70,3 +70,5 @@ https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/
 ## Observação
 
 O regulamento incluído é apenas um modelo inicial e deve ser revisado antes da publicação.
+
+Atualização para publicar o site.
